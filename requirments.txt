@@ -1,0 +1,10 @@
+streamlit==1.28.1
+bcrypt==4.0.1
+python-dotenv==1.0.0
+requests==2.31.0
+numpy==1.24.3
+matplotlib==3.7.2
+uuid==1.30
+twilio==8.13.0
+flask==2.3.3
+flask-cors==4.0.0
