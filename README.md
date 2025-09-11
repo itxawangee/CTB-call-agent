@@ -1,4 +1,4 @@
-# 🎭 AI Voice Assistant with Vapi
+# 🎭 CTB CALL AGENT
 
 A comprehensive **web application** that enables users to create AI assistants capable of having natural conversations over **phone calls** and **WhatsApp messages**.  
 Built with **Streamlit**, powered by **Vapi.ai**, **Twilio**, and **ElevenLabs** integrations.
